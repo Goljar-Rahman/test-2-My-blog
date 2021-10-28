@@ -1,0 +1,73 @@
+body {
+  background-color: #777;
+}
+.container {
+  display: grid;
+}
+
+div {
+  color: white;
+  font-size: 28px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+#div1 {
+  background-color: tomato;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
+#div2 {
+  background-color: tan;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
+#div3 {
+  background-color: teal;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
+#div4 {
+  background-color: steelblue;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
+#div5 {
+  background-color: turquoise;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
+#div6 {
+  background-color: springgreen;
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: centers;
+  cursor: pointer;
+}
